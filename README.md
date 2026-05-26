@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Livia 👋
 
-<!--
-**htmlivia/htmlivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mechanical Engineering student at IFES  
+💻 Technical student in Systems Development at IFSULDEMINAS  
+🔬 Undergraduate researcher in additive manufacturing  
 
-Here are some ideas to get you started:
+## Currently working on
+- Learning C programming
+- Building personal projects
+- CAD modeling and 3D printing
+- Industrial and engineering-related solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Technologies
+- C
+- Git & GitHub
+- HTML/CSS
+- VS Code
+- CAD software
+- 3D Printing
+
+## Reach me
+📫 Open to internship opportunities in IT and technology
